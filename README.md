@@ -5,5 +5,6 @@
 ##![boxplot](https://github.com/Nanungi/Prediction-of-Product-Sales/assets/162002009/d0209ae2-2e8f-4673-ade6-f0901544bef4)
 
 ##![heatmap](https://github.com/Nanungi/Prediction-of-Product-Sales/assets/162002009/2fc14d64-3be6-42d6-aeff-28da89c71615)
-
+## Below is the link to data processed for machine learning
+##/content/drive/MyDrive/CodingDojo/02-IntroML/Week05/Data/Project1;Part_5(core).ipynb
 
